@@ -1,0 +1,8 @@
+Documento: Artigo sobre Engenharia de Software
+- A engenharia de software é uma área que estuda métodos sistemáticos de desenvolvimento e manutenção de sistemas.
+- O uso de IA pode automatizar partes do processo de testes.
+- Embeddings são representações numéricas que permitem medir similaridade entre textos.
+
+Documento: Estudo sobre Chatbots
+- Chatbots baseados em IA usam modelos de linguagem para interpretar e responder perguntas.
+- Ao indexar PDFs, é possível criar um assistente virtual que responde com base em documentos específicos.
